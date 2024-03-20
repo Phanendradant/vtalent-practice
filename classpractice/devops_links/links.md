@@ -20,3 +20,5 @@
 20. Stop writing Dockerfiles — Do this instead [Refere Here](https://medium.com/@sushantkapare1717/stop-writing-dockerfiles-today-do-this-instead-b88f2a0cadeb).
 21. 11 Kubernetes Deployment Configs You Should Know in 2024 [Refere Here](https://overcast.blog/11-kubernetes-deployment-configs-you-should-know-in-2024-1126740926f0).
 22. 📌 21 Days of DevOps Interview — Day 10 — Linux Boot Process📌 [Refer Here](https://devopslearning.medium.com/21-days-of-devops-interview-day-10-linux-boot-process-09cb3d145803).
+23. Terraform: Deploy A Three-Tier Architecture in AWS [Refere Here](https://aws.plainenglish.io/terraform-deploying-a-three-tier-architecture-in-aws-4c8ecce40790)
+24. Creating EFS File System And Mount Targets Using Terraform [Refer Here](https://medium.com/avmconsulting-blog/creating-efs-file-system-and-mount-targets-using-terraform-6f8890201b13)
