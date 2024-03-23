@@ -1,3 +1,5 @@
+## classroom links
+-----------------------------------------------------------------
 1. CI/CD Pipeline Process with Jenkins and Docker in AWS [Refere Here](https://medium.com/@ianwaswa2019/ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-7d9f54512262)
 2. Nginx Reverse Proxy on an Ubuntu server [Refere Here](https://aws.plainenglish.io/nginx-reverse-proxy-on-an-ubuntu-server-to-serve-jenkins-de90b948a9db)
 3.  devops all projects repo [refere here](https://github.com/malleshdevops)
@@ -22,3 +24,13 @@
 22. 📌 21 Days of DevOps Interview — Day 10 — Linux Boot Process📌 [Refer Here](https://devopslearning.medium.com/21-days-of-devops-interview-day-10-linux-boot-process-09cb3d145803).
 23. Terraform: Deploy A Three-Tier Architecture in AWS [Refere Here](https://aws.plainenglish.io/terraform-deploying-a-three-tier-architecture-in-aws-4c8ecce40790)
 24. Creating EFS File System And Mount Targets Using Terraform [Refer Here](https://medium.com/avmconsulting-blog/creating-efs-file-system-and-mount-targets-using-terraform-6f8890201b13)
+## projects based links
+---------------------------------------------------
+1. complete all languages projects from instagram [Refer Here](https://github.com/practical-tutorials/project-based-learning)
+
+
+
+
+## Devops shack projects
+---------------------------------------
+1. nodejs full application [refere here](https://github.com/balumahendra3311/fullstack-bank.git)
