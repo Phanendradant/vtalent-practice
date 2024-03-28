@@ -24,6 +24,9 @@
 22. 📌 21 Days of DevOps Interview — Day 10 — Linux Boot Process📌 [Refer Here](https://devopslearning.medium.com/21-days-of-devops-interview-day-10-linux-boot-process-09cb3d145803).
 23. Terraform: Deploy A Three-Tier Architecture in AWS [Refere Here](https://aws.plainenglish.io/terraform-deploying-a-three-tier-architecture-in-aws-4c8ecce40790)
 24. Creating EFS File System And Mount Targets Using Terraform [Refer Here](https://medium.com/avmconsulting-blog/creating-efs-file-system-and-mount-targets-using-terraform-6f8890201b13)
+25. Mount AWS S3 Bucket On Amazon EC2 [Refer Here](https://surajblog.medium.com/mount-aws-s3-bucket-on-amazon-ec2-9f18b48d4f04)
+26. Configuring a static website on Amazon S3[Refere Here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
+27. How to Host Static Website Using AWS S3?[Refer Here](https://www.geeksforgeeks.org/how-to-host-static-website-using-aws-s3/)
 ## projects based links
 ---------------------------------------------------
 1. complete all languages projects from instagram [Refer Here](https://github.com/practical-tutorials/project-based-learning)
