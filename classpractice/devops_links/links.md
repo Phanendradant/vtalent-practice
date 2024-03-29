@@ -38,4 +38,11 @@
 ---------------------------------------
 1. nodejs fullstack application [refere here](https://github.com/jaiswaladi246/fullstack-bank)
 2. complete repository [Refere Here](https://github.com/jaiswaladi246)
-3. 
+
+
+
+## qt Ptojects
+----------------------------------------------
+1. Openmrs (Java)[Refere Here](https://github.com/openmrs/openmrs-core)
+2. Mezzazine (Python)[Refer Here](https://github.com/stephenmcd/mezzanine)
+3. Nop Commerce .net [Refer Here](https://github.com/nopSolutions/nopCommerce)
