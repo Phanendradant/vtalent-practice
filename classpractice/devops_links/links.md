@@ -27,6 +27,10 @@
 25. Mount AWS S3 Bucket On Amazon EC2 [Refer Here](https://surajblog.medium.com/mount-aws-s3-bucket-on-amazon-ec2-9f18b48d4f04)
 26. Configuring a static website on Amazon S3[Refere Here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
 27. How to Host Static Website Using AWS S3?[Refer Here](https://www.geeksforgeeks.org/how-to-host-static-website-using-aws-s3/)
+28. Kubernetes; Local and Cloud Setup [Refer Here](https://blog.devops.dev/kkberkuberkuberkubernetes-local-and-cloud-setup-ca7ed8312065)
+
+
+
 ## projects based links
 ---------------------------------------------------
 1. complete all languages projects from instagram [Refer Here](https://github.com/practical-tutorials/project-based-learning)
