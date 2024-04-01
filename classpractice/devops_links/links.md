@@ -49,4 +49,13 @@
 ----------------------------------------------
 1. Openmrs (Java)[Refere Here](https://github.com/openmrs/openmrs-core)
 2. Mezzazine (Python)[Refer Here](https://github.com/stephenmcd/mezzanine)
-3. Nop Commerce .net [Refer Here](https://github.com/nopSolutions/nopCommerce)
+3. Nop Commerce (.net) [Refer Here](https://github.com/nopSolutions/nopCommerce)
+4. Shopizer(java)[Refer Here](https://github.com/shopizer-ecommerce/shopizer)
+5. OrangeHRM Starter,Free and Open Source HR Software[Refer Here](https://www.orangehrm.com/orangehrm-starter-open-source-software)
+
+
+## medium Articles
+------------------------------------------
+### kubernetes
+------------------------------------
+1. Kubernetes: DNS[Refer Here](https://yuminlee2.medium.com/kubernetes-dns-bdca7b7cb868#:~:text=In%20Kubernetes%2C%20DNS%20names%20are%20assigned%20to%20Pods%20and%20Services,format%20.)
