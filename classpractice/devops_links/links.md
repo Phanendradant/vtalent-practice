@@ -28,6 +28,7 @@
 26. Configuring a static website on Amazon S3[Refere Here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
 27. How to Host Static Website Using AWS S3?[Refer Here](https://www.geeksforgeeks.org/how-to-host-static-website-using-aws-s3/)
 28. Kubernetes; Local and Cloud Setup [Refer Here](https://blog.devops.dev/kkberkuberkuberkubernetes-local-and-cloud-setup-ca7ed8312065)
+29. What are Kubernetes & Containers Exit Codes — How to Fix it [Refer Here](https://foxutech.medium.com/what-are-kubernetes-containers-exit-codes-how-to-fix-it-fefdb63df50b)
 
 
 
