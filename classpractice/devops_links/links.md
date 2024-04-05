@@ -53,6 +53,11 @@
 3. Nop Commerce (.net) [Refer Here](https://github.com/nopSolutions/nopCommerce)
 4. Shopizer(java)[Refer Here](https://github.com/shopizer-ecommerce/shopizer)
 5. OrangeHRM Starter,Free and Open Source HR Software[Refer Here](https://www.orangehrm.com/orangehrm-starter-open-source-software)
+6. BroadleafCommerce (Java) [Refere Here](https://github.com/BroadleafCommerce/BroadleafCommerce)
+7. spring petclinic (Java 17) [Refer Here](https://github.com/spring-projects/spring-petclinic)
+8. Game of Life (Java 8)(https://github.com/wakaleo/game-of-life)
+9. msdocs-python-flask-webapp-quickstart (Python)[Refer Here](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart)
+
 
 
 ## medium Articles
