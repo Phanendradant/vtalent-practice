@@ -29,6 +29,9 @@
 27. How to Host Static Website Using AWS S3?[Refer Here](https://www.geeksforgeeks.org/how-to-host-static-website-using-aws-s3/)
 28. Kubernetes; Local and Cloud Setup [Refer Here](https://blog.devops.dev/kkberkuberkuberkubernetes-local-and-cloud-setup-ca7ed8312065)
 29. What are Kubernetes & Containers Exit Codes — How to Fix it [Refer Here](https://foxutech.medium.com/what-are-kubernetes-containers-exit-codes-how-to-fix-it-fefdb63df50b)
+30. Backing Up Jenkins Server And Restoring into another New Jenkins Server [Refer Here](https://medium.com/@swarnamalya044/backing-up-jenkins-server-and-restoring-into-another-new-jenkins-server-61980d74b34d)
+31. Why Should You Create a Backup of Jenkins Jobs and Store Them? [Refer Here](https://medium.com/@prabahar87/why-should-you-create-a-backup-of-jenkins-jobs-and-store-them-63739f10bbc2)
+
 
 
 
